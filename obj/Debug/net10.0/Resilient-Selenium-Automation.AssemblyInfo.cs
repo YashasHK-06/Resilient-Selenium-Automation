@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Resilient-Selenium-Automation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+280ae5ac7df7feedc7838a2e73f837b7e5b14ed5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69db324cfaaeeedd4ccd4d8420b9636f67b350c9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Resilient-Selenium-Automation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Resilient-Selenium-Automation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
