@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yasha\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj": {}
+    "C:\\Users\\yasha\\OneDrive\\Documents\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasha\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj": {
+    "C:\\Users\\yasha\\OneDrive\\Documents\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasha\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj",
+        "projectUniqueName": "C:\\Users\\yasha\\OneDrive\\Documents\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj",
         "projectName": "Resilient-Selenium-Automation",
-        "projectPath": "C:\\Users\\yasha\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj",
+        "projectPath": "C:\\Users\\yasha\\OneDrive\\Documents\\Resilient-Selenium-Automation\\Resilient-Selenium-Automation.csproj",
         "packagesPath": "C:\\Users\\yasha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasha\\Resilient-Selenium-Automation\\obj\\",
+        "outputPath": "C:\\Users\\yasha\\OneDrive\\Documents\\Resilient-Selenium-Automation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasha\\AppData\\Roaming\\NuGet\\NuGet.Config"
